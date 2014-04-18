@@ -2,6 +2,7 @@
 function Rectangular(x,y,w,h){
 	this.x = x;
 	this.y = y;
+	this.x = x;
 
 }
 
